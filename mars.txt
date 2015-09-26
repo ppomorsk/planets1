@@ -1,5 +1,7 @@
 This change is by user B.
 
+Added by user A.
+
 Mars is the fourth planet from the Sun.
 
 Mars is red.
