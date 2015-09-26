@@ -3,3 +3,5 @@ Mars is the fourth planet from the Sun.
 Mars is red.
 
 Mars is dry.
+
+Mars is half the size of Earth.
